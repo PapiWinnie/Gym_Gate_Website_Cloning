@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-styling{
+    @apply py-9 px-4
+}
