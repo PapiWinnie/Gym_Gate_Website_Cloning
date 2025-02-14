@@ -9,7 +9,8 @@
     extend: {
       colors:{
         'primary' : '#0c2444',
-        'secondary' : '#ac9444'
+        'secondary' : '#ac9444',
+        'hoverColor' :  '#e1e8f2'
       },
       fontSize:{
         '32': '2rem',
@@ -18,7 +19,8 @@
       },
       backgroundImage: {
         'hero-bg-img' : "url('/images/heroBcgroundImg/campus_spring_scenic-1920.webp')"
-      }
+      },
+      
     },
   },
   plugins: [],
